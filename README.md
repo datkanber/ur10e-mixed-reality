@@ -1,6 +1,6 @@
 <img width="905" height="383" alt="image" src="https://github.com/user-attachments/assets/f6084c36-0f5d-4c22-9824-85c74c50ccef" />
-# UR10e Mixed Reality
 
+# UR10e Mixed Reality
 A Mixed Reality prototype built with Unity, running on Meta Quest 3. The Universal Robots UR10e industrial arm is imported from its official URDF data and placed into the user's real physical environment via passthrough, forming a foundation for maintenance training scenarios.
 
 ## About
